@@ -1,8 +1,12 @@
 ### Hi there 
 
-My name is Giorgio, bachelor in Computer Engineering.
+---
 
-Open Source enthusiast with interests in hardware design and software development.
+My name is Giorgio, bachelor in Computer Engineering. 👨‍💻
+
+Open Source enthusiast with interests in hardware design and software development. 💻
+
+---
 
 <!--
 **GiorgioFardo/GiorgioFardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
