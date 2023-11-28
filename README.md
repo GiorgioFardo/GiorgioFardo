@@ -2,7 +2,7 @@
 
 ---
 
-My name is Giorgio, bachelor in Computer Engineering. 👨‍💻
+My name is Giorgio, I hold a bachelor in Computer Engineering and currently studying Cybersecurity. 👨‍💻
 
 Open Source enthusiast with interests in hardware design and software development. 💻
 
